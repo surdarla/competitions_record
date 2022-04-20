@@ -2,6 +2,8 @@
 
 ## Competition describe
 > Identify Key Phrases in Patient Notes from Medical Licensing Exams
+
+* [competition page](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/overview)
 * Timeline : 2022.02.01 - 2022.05.03
 * Code Competition
 * Evalutaion : micro-averaged F1, predict **a set of character spans**
